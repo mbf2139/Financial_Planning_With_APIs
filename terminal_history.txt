@@ -1,0 +1,44 @@
+  923  git push
+  924  history 870 > terminal_history.txt
+  925  git status
+  926  git add -A
+  927  git commit -m "added terminal history text file"
+  928  git push
+  929  cd ..
+  930  cd desktop
+  931  cd fintech-workspace
+  932  conda activate dev
+  933  conda install -c pyviz hvplot geoviews
+  934  conda list hvplot
+  935  conda list geoviews
+  936  ls
+  937  cd class_folder
+  938  git pull
+  939  git status
+  940  git add -A
+  941  git status
+  942  git commit -m "saved class work"
+  943  git pull
+  944  git config pull.rebase fales
+  945  git config pull.rebase false
+  946  git pull
+  947  cd financial_planning_with_apis
+  948  git status
+  949  git status
+  950  git status
+  951  git add -A
+  952  git commit -m "updated gitignore and dotenv file"
+  953  git status
+  954  git add -A
+  955  git commit -m "added crypto calcs to ipynb file"
+  956  git status
+  957  git add -A
+  958  git commit -m "saving progress on portfolio analysis"
+  959  git status
+  960  git add -A
+  961  git commit -m "saved progress on ipynb file"
+  962  git status
+  963  git add -A
+  964  git status
+  965  git commit -m "updated README file"
+  966  history > 923 terminal_history.txt
